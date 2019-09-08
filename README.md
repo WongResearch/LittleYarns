@@ -25,12 +25,7 @@ Additionally, users can add their own language data to the app, allowing others 
 The app draws upon data from the State Library of Queensland, - Aboriginal and Torres Strait Islander languages word lists.
  
 Little Yarns point of difference from other language apps is the customisation of user data input, allowing indigenous language to be collated in community. Once entered, the community has a ready to use education resource. This grassroots approach will ensure that from little yarns big yarns grow!
- 
-Little Yarns is an app that allows children and families to engage with indigenous language. Little Yarns assists indigenous communities in developing language lists for educational purposes. It draws upon the State Library of Queensland - Aboriginal and Torres Strait Islander languages word lists data set, , whilst enabling users to input their own data for languages not already featured. Little Yarns point of difference from other language apps is the customisation of this user data input, allowing indigenous language to be collated in community.
 
-
-The app allows users to choose the language to explore from a map.    
-https://theconversation.com/bilingual-children-lag-behind-in-language-learning-early-on-but-catch-up-by-age-five-46781
 
 ## Data set
 SLQ body parts:
