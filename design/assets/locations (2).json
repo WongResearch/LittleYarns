@@ -1,0 +1,43 @@
+[{
+        "name": "Barunggam",
+        "location": {
+            "longitude": 151.953964,
+            "latitude": -27.563829
+        },
+        "focusLocation": {
+            "zoom": 9
+        },
+        "category": "Barunggam",
+        "details": "Barunggam is an extinct Aboriginal language spoken by the Barunggam people of Queensland in Australia. The Barunggam language shared many words with the neighboring languages, including Jarowair to the east, Wakka Wakka to the north and Mandandanji to the west "
+    },
+    {
+        "name": "Gunggari",
+        "location": {
+            "longitude": 147.977900,
+            "latitude": -26.484000
+        },
+        "focusLocation": {},
+        "category": "Gunggari",
+        "details": "Gunggari."
+    },
+    {
+        "name": "Gooreng",
+        "location": {
+            "longitude": 151.123540,
+            "latitude": -24.864540
+        },
+        "focusLocation": {},
+        "category": "Gooreng",
+        "details": "Gooreng."
+    },
+    {
+        "name": "Butchulla",
+        "location": {
+            "longitude": 153.132523,
+            "latitude": -25.239822
+        },
+        "focusLocation": {},
+        "category": "Butchulla",
+        "details": "Butchulla "
+    }
+]

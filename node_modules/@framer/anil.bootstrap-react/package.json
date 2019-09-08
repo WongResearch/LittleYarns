@@ -1,0 +1,21 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.10.1"
+	},
+	"peerDependencies": {
+		"framer": "^0.10.1",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "f3fa0d0e-e524-4de2-85cf-6333e9000299",
+		"displayName": "Bootstrap React"
+	},
+	"author": "Jenil Gogari",
+	"dependencies": {},
+	"name": "@framer/anil.bootstrap-react",
+	"version": "1.2.0"
+}

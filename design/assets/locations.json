@@ -1,0 +1,53 @@
+[{
+        "name": "Sydney Opera House",
+        "location": {
+            "longitude": 151.21507755097377,
+            "latitude": -33.85725554523418
+        },
+        "focusLocation": {
+            "zoom": 9
+        },
+        "category": "cultural attraction",
+        "details": "World-famous opera house designed by Jørn Utzon. Opened in 1973."
+    },
+    {
+        "name": "Bondi Beach",
+        "location": {
+            "longitude": 151.27362005956923,
+            "latitude": -33.89084702828488
+        },
+        "focusLocation": {},
+        "category": "beach",
+        "details": "A popular beach located in a Sydney suburb of the same name."
+    },
+    {
+        "name": "Darling Harbour",
+        "location": {
+            "longitude": 151.20180875882124,
+            "latitude": -33.87151653767559
+        },
+        "focusLocation": {},
+        "category": "cultural attraction",
+        "details": "A large recreational and pedestrian precinct situated on the west side of the Sydney central business district."
+    },
+    {
+        "name": "Sydney Harbour Bridge",
+        "location": {
+            "longitude": 151.21064244901527,
+            "latitude": -33.8522736348907
+        },
+        "focusLocation": {},
+        "category": "cultural attraction",
+        "details": "Distinctive bridge between the Sydney central business district and the North Shore. Opened in 1932. "
+    },
+    {
+        "name": "Royal Botanical Gardens",
+        "location": {
+            "longitude": 151.21602755096444,
+            "latitude": -33.86416527202888
+        },
+        "focusLocation": {},
+        "category": "cultural attraction",
+        "details": "The oldest botanical garden in Australia. Opened in 1816."
+    }
+]

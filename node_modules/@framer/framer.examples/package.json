@@ -1,0 +1,26 @@
+{
+	"main": "dist/index.js",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^0.7.11 || ^1",
+		"react": "^16.8"
+	},
+	"name": "@framer/framer.examples",
+	"author": "Framer",
+	"version": "1.7.0",
+	"license": "MIT",
+	"framer": {
+		"id": "d52e8201-9936-42d9-8208-5c36c6f0e1bc",
+		"displayName": "Example Kit"
+	},
+	"keywords": [
+		"interactive",
+		"examples",
+		"ios",
+		"kit",
+		"apple",
+		"ui"
+	]
+}
