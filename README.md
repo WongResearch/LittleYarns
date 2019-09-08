@@ -6,7 +6,7 @@ Little Yarns is an app that allows children and families to engage with indigeno
 ## 2Data Story
 Little Yarns is an app that allows children and families to engage with indigenous language. The app draws upon data from the State Library of Queensland, - Aboriginal and Torres Strait Islander languages word lists.
 
-![App](http://files.mrwong.net/projects/LittleYarns.gif)
+![App](https://media.giphy.com/media/elaoC8T2d2lQGILun5/giphy.gif)
 
 ## Info
 
@@ -39,8 +39,7 @@ https://www.ourfuture.qld.gov.au/a-great-start.aspx
 https://www.australiancurriculum.edu.au/
 https://discover.data.vic.gov.au/dataset/victorian-government-aborginal-affairs-report-2014-15-data-tables
 
-Image:
-https://www.flickr.com/photos/67953162@N00/4227603729
+## Image Credit:
 http://www.archivessearch.qld.gov.au/Image/DigitalImageDetails.aspx?ImageId=225
 
 
